@@ -1,6 +1,4 @@
-
-
-
+/* CSS Section for index.html */
 .h1-title {
     text-align: center;
 }
@@ -52,4 +50,16 @@
     border-style: solid;
     border-width: 3px;
     border-color: #ff9054;
+}
+
+
+/* CSS for floats.html */
+
+p {
+    background-color: #cca7a7;
+    color: white;
+}
+
+.classItem{
+    background-color: #f2d5d5;
 }
