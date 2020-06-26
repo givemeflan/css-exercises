@@ -60,6 +60,11 @@ p {
     color: white;
 }
 
-.classItem{
+.classItem {
     background-color: #f2d5d5;
+}
+
+#idItem {
+    background-color: #32435F;
+    color: white;
 }
