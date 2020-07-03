@@ -54,16 +54,18 @@
 
 
 /* CSS for floats.html */
-#main-title{
-    background-color:red;
+#main-title {
+    background-color: red;
 }
 
-#nav-section{
-    background-color:orange;
+#nav-section {
+    background-color: orange;
 }
 
-#article-section{
+#article-section {
     background-color: blue;
 }
 
-
+#footer-section {
+    background-color: green;
+}
