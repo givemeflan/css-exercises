@@ -60,15 +60,16 @@
 
 #nav-section {
     background-color: orange;
-
+    float: left;
 }
 
 #article-section {
     background-color: blue;
+    float: right;
 
 }
 
 #footer-section {
     background-color: green;
-
+    
 }
