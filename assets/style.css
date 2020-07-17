@@ -65,11 +65,11 @@
 
 #article-section {
     background-color: blue;
-    float: right;
+    float: left;
 
 }
 
 #footer-section {
     background-color: green;
-    
+    clear: both;
 }
