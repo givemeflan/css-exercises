@@ -66,6 +66,8 @@
 #article-section {
     background-color: blue;
     float: left;
+    margin-left: 20px;
+    
 
 }
 
@@ -73,4 +75,8 @@
     background-color: green;
     clear: both;
     overflow: auto;
+    padding: 20px;
+
+
+
 }
