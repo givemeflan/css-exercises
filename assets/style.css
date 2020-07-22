@@ -60,23 +60,17 @@
 
 #nav-section {
     background-color: orange;
-    float: left;
+
 }
 
 #article-section {
     background-color: blue;
-    float: left;
-    margin-left: 20px;
-    
 
+    margin-left: 20px;
 }
+
 
 #footer-section {
     background-color: green;
-    clear: both;
-    overflow: auto;
     padding: 20px;
-
-
-
 }
