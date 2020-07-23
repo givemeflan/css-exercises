@@ -1,4 +1,7 @@
 /* CSS Section for index.html */
+
+
+
 .h1-title {
     text-align: center;
 }
@@ -61,20 +64,26 @@
 #nav-section {
     background-color: orange;
     float: left;
+
 }
 
 #article-section {
     background-color: blue;
-    float: right;
+    float: left;
 
 
 
 }
 
+.row {
+    overflow: auto;
+    background-color: pink;
+}
 
 #footer-section {
     background-color: green;
     padding: 20px;
+    margin-top: 20px;
     clear: both;
 
 
