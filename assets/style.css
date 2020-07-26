@@ -85,8 +85,19 @@
     padding: 20px;
     margin-top: 20px;
     clear: both;
+}
 
 
+/* CSS for positioning.html */
+#fixed {
+    background-color: #eee;
+}
 
+#relative {
+    background: #eee;
+}
+
+#absolute {
+    background: #999;
 
 }
