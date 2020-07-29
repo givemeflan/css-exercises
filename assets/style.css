@@ -104,6 +104,12 @@ h1 {
     margin-bottom: 20px;
 }
 
+p {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 20px;
+}
+
 #fixed {
     background-color: #eee;
     position: fixed;
@@ -123,9 +129,21 @@ h1 {
 
 #relative {
     background: #eee;
+    position: relative;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 200px;
 }
 
 #absolute {
     background: #999;
+    width: 250px;
+    position: absolute;
+    padding: 20px;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    right: -20px;
 
 }
