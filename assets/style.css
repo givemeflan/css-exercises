@@ -15,13 +15,13 @@ body {
 #main-title {
     background-color: red;
     color: #39586f;
-    /* float: right; */
+    float: left;
 
 }
 
 #nav-section {
     background-color: orange;
-
+    float: right;
 }
 
 a {
@@ -30,7 +30,9 @@ a {
 
 #article-section {
     background-color: blue;
-    float: left;
+
+
+
 }
 
 .row {
