@@ -9,7 +9,9 @@ body {
 }
 
 .row {
-    background-color: yellow;
+    background-color: pink;
+    overflow: auto;
+
 }
 
 #main-title {
@@ -35,10 +37,6 @@ a {
 
 }
 
-.row {
-    /* overflow: auto; */
-    background-color: pink;
-}
 
 #footer-section {
     background-color: green;
