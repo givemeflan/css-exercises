@@ -1,5 +1,5 @@
 # css-exercises
-This repository will hold exercises where I practice CSS &amp; floats. 
+This repository will hold exercises where I practice CSS, floats, resets and other important design elements. 
 
 ## Exercise List 
 *1.) Basic Floats 
