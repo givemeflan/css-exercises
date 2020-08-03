@@ -3,7 +3,7 @@ body {
     background-image: url("space.jpg");
     background-repeat: no-repeat;
     margin: 0;
-    min-height: 100vh;
+    min-height: 110vh;
     position: relative;
 }
 
@@ -17,20 +17,28 @@ body {
 }
 
 #main-title {
-    color: #ffffff;
+    color: #fbfcfd;
+    font-size: 25px;
     float: left;
     margin-left: 40px;
+    font-family: 'Major Mono Display', monospace;
 }
 
 #nav-section {
     float: right;
     margin-top: 30px;
     margin-right: 70px;
-    word-spacing: 30px;
+    word-spacing: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
 }
 
 a {
     text-decoration: none;
+}
+
+a:hover {
+    color: #ffd27d;
 }
 
 .link-styling {
@@ -43,24 +51,29 @@ a {
     padding-bottom: 100px;
     margin: 0 auto;
     text-align: center;
-    margin-top: 30px;
+    /* margin-top: 20px; */
     margin-bottom: 50px;
-
 }
 
 #lorum-styling {
     color: #fbfcfd;
     letter-spacing: 1px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
 }
 
 
 #space-title {
-    color: #fbfcfd;
+    /* color: #fbfcfd; */
+    font-size: 48px;
+    font-family: 'Codystar', cursive;
+    color: #ffd27d;
 }
 
 #footer-section {
-    padding: 20px;
-    font-size: 20px;
+    padding: 10px;
+    font-size: 16px;
     margin-top: 20px;
     clear: both;
     width: 100%;
@@ -71,6 +84,7 @@ a {
     bottom: 0;
     position: absolute;
     opacity: 0.87;
+    font-family: 'Montserrat', sans-serif;
 
 
 }
