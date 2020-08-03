@@ -86,13 +86,18 @@ a:hover {
     position: absolute;
     opacity: 0.87;
     font-family: 'Montserrat', sans-serif;
-
-
 }
 
 
 
 /* CSS for positioning.html */
+
+#positioning-body{
+    background-image: 
+}
+
+
+
 * {
     box-sizing: border-box;
 }
