@@ -11,6 +11,6 @@ This first exercise here was about practicing floats. I didn't do much much floa
 
 ## Resources 
 - Link to Space Background: https://unsplash.com/photos/Q1p7bh3SHj8
-- Link to Additional Space Background: https://thewallpaper.co/vectorstar-space-scifi-action-futuristic-drawing-spaceship-trek-macbookcool-free-wallpapers-disney/
+- Link to Additional Space Background: https://www.goodfon.com/download/planeta-poverhnost-gorizont/1920x1080/
 - Font Styling: https://fonts.google.com/
 - Color Palettes: https://www.color-hex.com/color-palette/9149
