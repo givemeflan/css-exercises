@@ -119,13 +119,14 @@ p {
 }
 
 #fixed {
-    background-color: #eee;
+    color: #fbfcfd;
     position: fixed;
     padding: 40px;
     text-align: center;
     margin: 0;
     top: 0;
     left: 0;
+    font-family: 'Major Mono Display', monospace;
 }
 
 .wrapper {
