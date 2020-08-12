@@ -19,5 +19,6 @@ If you are thinking, whoa this is not pretty....well, I totally agree with you! 
 ## Resources 
 - Link to Space Background: https://unsplash.com/photos/Q1p7bh3SHj8
 - Link to Additional Space Background: https://www.goodfon.com/download/planeta-poverhnost-gorizont/1920x1080/
+- Link to Background with Planet on the Right side: http://www.desktopimages.org/preview/426207/1920/1080
 - Font Styling: https://fonts.google.com/
 - Color Palettes: https://www.color-hex.com/color-palette/9149, https://icolorpalette.com/imagepalette/color-palette-ideas-from-sky-nature-atmosphere-image-43, 
