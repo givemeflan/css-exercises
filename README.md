@@ -10,7 +10,8 @@ This first exercise here was about practicing floats. I didn't do much much floa
 ![basic-floats](https://user-images.githubusercontent.com/66345751/89225759-c2582500-d5a8-11ea-8994-01e54b0ba65e.JPG)
 
 ### Fixed, Relative, & Position Properties
-If you are thinking, whoa this is not pretty....well, I totally agree with you! This exercise was based on a previous positioning exercise I did a couple of years ago with UNCC's Web Development Certification. It might not look like it, but the fixed, relative, and position properties are in the code! 
+If you are thinking, whoa this is not pretty....well, I totally agree with you! I tried to keep the layout somewhat similar to the exercise done in the certification program. It might not look like it, but the fixed, relative, and position properties are in the code! 
+![positioning](https://user-images.githubusercontent.com/66345751/89973267-ef05df80-dc2d-11ea-8d48-36717b592b71.JPG)
 
 
 
